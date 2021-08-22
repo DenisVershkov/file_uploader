@@ -1,0 +1,28 @@
+.wrapper{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  text-align: center;
+  width: 1000px;
+  height: 200px;
+  margin: auto;
+}
+
+.text{
+  display: block;
+  font-size: 80px;
+  margin-bottom: 50px;
+}
+
+.signIn{
+  font-size: 20px;
+  margin-right: 50px;
+}
+
+.signUp{
+  font-size: 20px;
+}
